@@ -173,6 +173,7 @@ Nodt: All the script from Step 6 onwards will require a GPU enabled system to ru
 ## References & Sources
 - Patwa, Parth, et al. "SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets." SemEval@ COLING (2020): 774-790.
 - Kumar, Yaman, et al. "Bhaav-a text corpus for emotion analysis from Hindi stories." arXiv preprint arXiv:1910.04073 (2019).
+- Kulkarni, Atharva, et al. "L3cubemahasent: A marathi tweet-based sentiment analysis dataset." arXiv preprint arXiv:2103.11408 (2021).
 - Twitter API for collecting tweets
 - Labeled dataset of code-mixed tweets for training and evaluation
--
+- Mehta, Jash, et al. "IndicFed: A Federated Approach for Sentiment Analysis in Indic Languages." Proceedings of the 18th International Conference on Natural Language Processing (ICON). 2021.
