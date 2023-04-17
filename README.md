@@ -163,7 +163,8 @@ Note: Already cleaned data is present in data/final/ directory. These files can 
 
 5. Train & Evaluate LogisticRegression & DecisionTree models using the `basic_models.ipynb` script.
 
-Nodt: All the script from Step 6 onwards will require a GPU enabled system to run as the models require cuda to train.
+Note: All the script from Step 6 onwards will require a GPU enabled system to run as the models require cuda to train.
+
 6. Train & Evaluate Bidirectional LSTM & Sequential models using `lstm_seq.ipynb`script.
 7. Train & Evaluate BERT model using 
 9. Train & Evaluate IndicBERT model using 
