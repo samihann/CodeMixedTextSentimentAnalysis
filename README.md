@@ -81,6 +81,9 @@ The data restructuring  performed using `textToCsv.py` script
 
 The transliteration of hindi text is performed using `hinToEng.py` script
 
+A sample of how the transliteration is done can be seen in the image given below
+![transliteration](images/img1.png)
+
 ### Dataset Cleanup
 
 - The first step in dataset cleanup is to validate the data to ensure it is accurate, complete, and consistent.
@@ -167,4 +170,9 @@ Nodt: All the script from Step 6 onwards will require a GPU enabled system to ru
 
 
 
-## References
+## References & Sources
+- Patwa, Parth, et al. "SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets." SemEval@ COLING (2020): 774-790.
+- Kumar, Yaman, et al. "Bhaav-a text corpus for emotion analysis from Hindi stories." arXiv preprint arXiv:1910.04073 (2019).
+- Twitter API for collecting tweets
+- Labeled dataset of code-mixed tweets for training and evaluation
+-
